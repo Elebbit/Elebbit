@@ -1,5 +1,5 @@
 ### I'm YeonTaek Choi
-**CTO & Tech Lead at [Cokee](https://github.com/Cokee-io)**
+**CEO & Tech Lead at [Cokee](https://github.com/Cokee-io)**
 
 I architect and build **High-Performance SaaS** & **Proprietary sLLM Solutions**.
 Currently leading the engineering team at **[Integrabbit](https://integrabbit.com)**, focusing on reducing technical debt and optimizing business logic.
